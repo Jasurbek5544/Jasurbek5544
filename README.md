@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jasurbek</h1>
 <h3 align="center">I am a developer in the DevOps field</h3>
 
-# 🐍 snike 
-
 <a href=#><img src="snike.svg"></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasurbek5544&label=Profile%20views&color=0e75b6&style=flat" alt="jasurbek5544" /> </p>
