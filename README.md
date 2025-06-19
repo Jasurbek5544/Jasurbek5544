@@ -43,16 +43,31 @@
 <h3>🌐 Connect with me:</h3>
 
 <div align="left">
-  <a href="mailto:youremail@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  <a href="mailto:nuriddinovjasurbek200409@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
   </a>
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  
+  <a href="https://linkedin.com/in/jasurbek-nuriddinov-701b02319" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
-  <a href="https://t.me/yourtelegram" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo" />
+  
+  <a href="https://t.me/jasurbek5544" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Telegram" />
+  </a>
+  
+  <a href="https://instagram.com/1_jasur_gold" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
+  </a>
+  
+  <a href="https://gitlab.com/Jasurbek5544" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GitLab" />
+  </a>
+  
+  <a href="tel:+998932222561">
+    <img src="https://img.shields.io/static/v1?message=Call&logo=phone&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Phone" />
   </a>
 </div>
+
 
 ###
 
