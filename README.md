@@ -63,10 +63,7 @@
     <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GitLab" />
   </a>
   
-  <a href="tel:+998932222561">
-    <img src="https://img.shields.io/static/v1?message=Call&logo=phone&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Phone" />
-  </a>
-</div>
+  <h2>My phone number:</h2> <h3>+998932222561</h3>
 
 
 ###
