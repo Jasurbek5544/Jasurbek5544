@@ -63,7 +63,7 @@
     <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GitLab" />
   </a>
   
-  <h2>My phone number:</h2> <h3>+998932222561</h3>
+  <h3>My phone number:</h3> <h3>+998932222561</h3>
 
 
 ###
