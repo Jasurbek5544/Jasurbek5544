@@ -1,11 +1,11 @@
 <a href="#"><img src="hello.svg"></a>
 
-<h2 align="left">
+<h3 align="left">
   💻 I'm Jasurbek Nuriddinov — a passionate DevOps Engineer.<br>
   🔧 I specialize in CI/CD, Docker, GitLab CI, Kubernetes, Ansible, and Cloud Infrastructure.<br>
   🐧 I enjoy building scalable systems with Python and automating everything with Bash/Linux.<br>
   🚀 Always learning. Always improving.
-</h2>
+</h3>
 
 ###
 
