@@ -1,10 +1,10 @@
 <a href="#"><img src="hello.svg"></a>
 
 <h3 align="left">
-  💻 I'm <strong>Jasurbek Nuriddinov</strong> — a passionate <strong>DevOps Engineer</strong>.<br>
-  🔧 I specialize in <strong>CI/CD</strong>, <strong>Docker</strong>, <strong>GitLab CI</strong>, <strong>Kubernetes</strong>, <strong>Ansible</strong>, and <strong>Cloud Infrastructure</strong>.<br>
-  🐧 I enjoy building scalable systems with Python and automating everything with Bash/Linux.<br>
-  🚀 Always learning. Always improving.
+💻 I'm **Jasurbek Nuriddinov** — a passionate **DevOps Engineer**.  
+🔧 I specialize in **CI/CD**, **Docker**, **GitLab CI**, **Kubernetes**, **Ansible**, and **Cloud Infrastructure**.  
+🐧 I enjoy building scalable systems with Python and automating everything with Bash/Linux.  
+🚀 Always learning. Always improving.
 </h3>
 
 ###
